@@ -16,7 +16,7 @@ pause(){
 }
 
 one(){
-	echo "one() called"
+	./sprint
         pause
 }
 

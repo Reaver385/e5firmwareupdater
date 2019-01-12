@@ -16,7 +16,7 @@ pause(){
 }
 
 one(){
-	./sprint
+        . $PWD/sprint.sh
         pause
 }
 
